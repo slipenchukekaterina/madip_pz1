@@ -7,6 +7,7 @@ library(maps)
 
 # Plot() ----------
 
+
 plot(1:20, main = "Заголовок")
 legend("topleft", pch = 1, legend = "Twenty dots")
 title(main = "Title") #conflict
